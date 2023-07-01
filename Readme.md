@@ -14,6 +14,6 @@
 
 - disini kita membahas basic basic docker seperti image,container,network dan volume 
 
-link Download : https://drive.google.com/file/d/1CvoBLZBWj-YGHs-QGo5IS9qhWkXfr3BS/view?usp=sharing
+link Download :https://drive.google.com/drive/folders/1jvhO1sR2lGHSshfX72K-pv_jl2LV-uJc?usp=sharing
 
 ### Selamat Membaca
